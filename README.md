@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Baecien!
 - 👀 I’m interested in Chess, Books and Technology!
+- 🎧 My favourite band is Godspeed You! Black Emperor!
 - 🌱 I’m currently learning about Physics!
 - 📫 You can reach me @ thomas.jensen_@outlook.com
