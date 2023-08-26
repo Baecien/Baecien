@@ -1,3 +1,0 @@
-- 👋 Hi, I’m Thomas Jensen!
-- 🎧 My favourite band is Godspeed You! Black Emperor!
-- 🖥 Swift UI Frontend Developer!
